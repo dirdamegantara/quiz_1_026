@@ -1,6 +1,6 @@
 # Quiz 1 Basic Python
 
-#1. Elemen Terbesar dan Terkecil:
+#1. Elemen Terbesar dan Terkecil: \n
 ![image](https://github.com/dirdamegantara/quiz_1_026/assets/81964759/48109566-487a-4437-96d2-028b49b86c3f)
 
 #2. Transpose Matrix (T):
